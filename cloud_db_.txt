@@ -1,0 +1,29 @@
+Username - sharmarajatraj1
+Password - i3JgwhfaEVCpRQ3p
+Your current IP address (103.176.156.9) has been added to enable local connectivity.
+
+mongodb+srv://sharmarajatraj1:<password>@mern-estate.ysaosgm.mongodb.net/?retryWrites=true&w=majority&appName=mern-estate
+
+//  Username - Rajat Raj sharma
+//  Email -    sharmarajatraj1@gmail.com
+//  Password - Rajat3030
+
+//  http://localhost:3000/api/auth/signup  -  for saving user in db
+//  http://localhost:3000/api/auth/signin  -  for checking user in db
+
+demo user:-
+{
+  "username": "Rajat Raj Sharma",
+  "email": "sharmarajatraj1@gmail.com",
+  "password": "Rajat3030"
+}
+{
+  "username": "Amit K",
+  "email": "amit@gmail.com",
+  "password": "Amit3030"
+}
+{
+  "username": "Sarthak",
+  "email": "sarthak@gmail.com",
+  "password": "Sarthak3030"
+}
